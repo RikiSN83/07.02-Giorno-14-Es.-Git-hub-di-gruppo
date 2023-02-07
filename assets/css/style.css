@@ -1,0 +1,30 @@
+#img1 {
+    width: 15% !important;
+    height: 10% !important;
+    border-radius: 5%;
+    
+}
+header {
+    background-color: rgb(65, 65, 177);
+   
+}
+header h1 {
+    color: white;
+    text-align: center;
+}
+footer {
+    background-color:  rgb(65, 65, 177);
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+
+.dart {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 2px solid #650a9e;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
